@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Admin/CLionProjects/MySell/main.cpp
+fstream
+-
+iostream
+-
+thread
+-
+vector
+-
+fcntl.h
+-
+cstring
+-
+cmath
+-
+cmath
+-
+sstream
+-
+unistd.h
+-
+string
+-
+limits.h
+-
+stdlib.h
+-
+iostream
+-
+string
+-
+unistd.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+
