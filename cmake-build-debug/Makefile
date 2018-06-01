@@ -123,6 +123,87 @@ MySell/fast:
 	$(MAKE) -f CMakeFiles/MySell.dir/build.make CMakeFiles/MySell.dir/build
 .PHONY : MySell/fast
 
+File.o: File.cpp.o
+
+.PHONY : File.o
+
+# target to build an object file
+File.cpp.o:
+	$(MAKE) -f CMakeFiles/MySell.dir/build.make CMakeFiles/MySell.dir/File.cpp.o
+.PHONY : File.cpp.o
+
+File.i: File.cpp.i
+
+.PHONY : File.i
+
+# target to preprocess a source file
+File.cpp.i:
+	$(MAKE) -f CMakeFiles/MySell.dir/build.make CMakeFiles/MySell.dir/File.cpp.i
+.PHONY : File.cpp.i
+
+File.s: File.cpp.s
+
+.PHONY : File.s
+
+# target to generate assembly for a file
+File.cpp.s:
+	$(MAKE) -f CMakeFiles/MySell.dir/build.make CMakeFiles/MySell.dir/File.cpp.s
+.PHONY : File.cpp.s
+
+Myshell.o: Myshell.cpp.o
+
+.PHONY : Myshell.o
+
+# target to build an object file
+Myshell.cpp.o:
+	$(MAKE) -f CMakeFiles/MySell.dir/build.make CMakeFiles/MySell.dir/Myshell.cpp.o
+.PHONY : Myshell.cpp.o
+
+Myshell.i: Myshell.cpp.i
+
+.PHONY : Myshell.i
+
+# target to preprocess a source file
+Myshell.cpp.i:
+	$(MAKE) -f CMakeFiles/MySell.dir/build.make CMakeFiles/MySell.dir/Myshell.cpp.i
+.PHONY : Myshell.cpp.i
+
+Myshell.s: Myshell.cpp.s
+
+.PHONY : Myshell.s
+
+# target to generate assembly for a file
+Myshell.cpp.s:
+	$(MAKE) -f CMakeFiles/MySell.dir/build.make CMakeFiles/MySell.dir/Myshell.cpp.s
+.PHONY : Myshell.cpp.s
+
+Value.o: Value.cpp.o
+
+.PHONY : Value.o
+
+# target to build an object file
+Value.cpp.o:
+	$(MAKE) -f CMakeFiles/MySell.dir/build.make CMakeFiles/MySell.dir/Value.cpp.o
+.PHONY : Value.cpp.o
+
+Value.i: Value.cpp.i
+
+.PHONY : Value.i
+
+# target to preprocess a source file
+Value.cpp.i:
+	$(MAKE) -f CMakeFiles/MySell.dir/build.make CMakeFiles/MySell.dir/Value.cpp.i
+.PHONY : Value.cpp.i
+
+Value.s: Value.cpp.s
+
+.PHONY : Value.s
+
+# target to generate assembly for a file
+Value.cpp.s:
+	$(MAKE) -f CMakeFiles/MySell.dir/build.make CMakeFiles/MySell.dir/Value.cpp.s
+.PHONY : Value.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +240,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... MySell"
+	@echo "... File.o"
+	@echo "... File.i"
+	@echo "... File.s"
+	@echo "... Myshell.o"
+	@echo "... Myshell.i"
+	@echo "... Myshell.s"
+	@echo "... Value.o"
+	@echo "... Value.i"
+	@echo "... Value.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

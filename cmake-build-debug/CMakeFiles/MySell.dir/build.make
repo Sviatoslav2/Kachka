@@ -81,19 +81,97 @@ CMakeFiles/MySell.dir/main.cpp.o.provides: CMakeFiles/MySell.dir/main.cpp.o.requ
 CMakeFiles/MySell.dir/main.cpp.o.provides.build: CMakeFiles/MySell.dir/main.cpp.o
 
 
+CMakeFiles/MySell.dir/File.cpp.o: CMakeFiles/MySell.dir/flags.make
+CMakeFiles/MySell.dir/File.cpp.o: ../File.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Admin/CLionProjects/MySell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MySell.dir/File.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MySell.dir/File.cpp.o -c /mnt/c/Users/Admin/CLionProjects/MySell/File.cpp
+
+CMakeFiles/MySell.dir/File.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MySell.dir/File.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Admin/CLionProjects/MySell/File.cpp > CMakeFiles/MySell.dir/File.cpp.i
+
+CMakeFiles/MySell.dir/File.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MySell.dir/File.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Admin/CLionProjects/MySell/File.cpp -o CMakeFiles/MySell.dir/File.cpp.s
+
+CMakeFiles/MySell.dir/File.cpp.o.requires:
+
+.PHONY : CMakeFiles/MySell.dir/File.cpp.o.requires
+
+CMakeFiles/MySell.dir/File.cpp.o.provides: CMakeFiles/MySell.dir/File.cpp.o.requires
+	$(MAKE) -f CMakeFiles/MySell.dir/build.make CMakeFiles/MySell.dir/File.cpp.o.provides.build
+.PHONY : CMakeFiles/MySell.dir/File.cpp.o.provides
+
+CMakeFiles/MySell.dir/File.cpp.o.provides.build: CMakeFiles/MySell.dir/File.cpp.o
+
+
+CMakeFiles/MySell.dir/Myshell.cpp.o: CMakeFiles/MySell.dir/flags.make
+CMakeFiles/MySell.dir/Myshell.cpp.o: ../Myshell.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Admin/CLionProjects/MySell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MySell.dir/Myshell.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MySell.dir/Myshell.cpp.o -c /mnt/c/Users/Admin/CLionProjects/MySell/Myshell.cpp
+
+CMakeFiles/MySell.dir/Myshell.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MySell.dir/Myshell.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Admin/CLionProjects/MySell/Myshell.cpp > CMakeFiles/MySell.dir/Myshell.cpp.i
+
+CMakeFiles/MySell.dir/Myshell.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MySell.dir/Myshell.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Admin/CLionProjects/MySell/Myshell.cpp -o CMakeFiles/MySell.dir/Myshell.cpp.s
+
+CMakeFiles/MySell.dir/Myshell.cpp.o.requires:
+
+.PHONY : CMakeFiles/MySell.dir/Myshell.cpp.o.requires
+
+CMakeFiles/MySell.dir/Myshell.cpp.o.provides: CMakeFiles/MySell.dir/Myshell.cpp.o.requires
+	$(MAKE) -f CMakeFiles/MySell.dir/build.make CMakeFiles/MySell.dir/Myshell.cpp.o.provides.build
+.PHONY : CMakeFiles/MySell.dir/Myshell.cpp.o.provides
+
+CMakeFiles/MySell.dir/Myshell.cpp.o.provides.build: CMakeFiles/MySell.dir/Myshell.cpp.o
+
+
+CMakeFiles/MySell.dir/Value.cpp.o: CMakeFiles/MySell.dir/flags.make
+CMakeFiles/MySell.dir/Value.cpp.o: ../Value.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/Admin/CLionProjects/MySell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MySell.dir/Value.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MySell.dir/Value.cpp.o -c /mnt/c/Users/Admin/CLionProjects/MySell/Value.cpp
+
+CMakeFiles/MySell.dir/Value.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MySell.dir/Value.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/Admin/CLionProjects/MySell/Value.cpp > CMakeFiles/MySell.dir/Value.cpp.i
+
+CMakeFiles/MySell.dir/Value.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MySell.dir/Value.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/Admin/CLionProjects/MySell/Value.cpp -o CMakeFiles/MySell.dir/Value.cpp.s
+
+CMakeFiles/MySell.dir/Value.cpp.o.requires:
+
+.PHONY : CMakeFiles/MySell.dir/Value.cpp.o.requires
+
+CMakeFiles/MySell.dir/Value.cpp.o.provides: CMakeFiles/MySell.dir/Value.cpp.o.requires
+	$(MAKE) -f CMakeFiles/MySell.dir/build.make CMakeFiles/MySell.dir/Value.cpp.o.provides.build
+.PHONY : CMakeFiles/MySell.dir/Value.cpp.o.provides
+
+CMakeFiles/MySell.dir/Value.cpp.o.provides.build: CMakeFiles/MySell.dir/Value.cpp.o
+
+
 # Object files for target MySell
 MySell_OBJECTS = \
-"CMakeFiles/MySell.dir/main.cpp.o"
+"CMakeFiles/MySell.dir/main.cpp.o" \
+"CMakeFiles/MySell.dir/File.cpp.o" \
+"CMakeFiles/MySell.dir/Myshell.cpp.o" \
+"CMakeFiles/MySell.dir/Value.cpp.o"
 
 # External object files for target MySell
 MySell_EXTERNAL_OBJECTS =
 
 MySell: CMakeFiles/MySell.dir/main.cpp.o
+MySell: CMakeFiles/MySell.dir/File.cpp.o
+MySell: CMakeFiles/MySell.dir/Myshell.cpp.o
+MySell: CMakeFiles/MySell.dir/Value.cpp.o
 MySell: CMakeFiles/MySell.dir/build.make
 MySell: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
 MySell: /usr/lib/x86_64-linux-gnu/libboost_system.so
 MySell: CMakeFiles/MySell.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/Admin/CLionProjects/MySell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable MySell"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/Admin/CLionProjects/MySell/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable MySell"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MySell.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -102,6 +180,9 @@ CMakeFiles/MySell.dir/build: MySell
 .PHONY : CMakeFiles/MySell.dir/build
 
 CMakeFiles/MySell.dir/requires: CMakeFiles/MySell.dir/main.cpp.o.requires
+CMakeFiles/MySell.dir/requires: CMakeFiles/MySell.dir/File.cpp.o.requires
+CMakeFiles/MySell.dir/requires: CMakeFiles/MySell.dir/Myshell.cpp.o.requires
+CMakeFiles/MySell.dir/requires: CMakeFiles/MySell.dir/Value.cpp.o.requires
 
 .PHONY : CMakeFiles/MySell.dir/requires
 

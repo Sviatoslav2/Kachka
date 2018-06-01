@@ -4,6 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/mnt/c/Users/Admin/CLionProjects/MySell/File.cpp" "/mnt/c/Users/Admin/CLionProjects/MySell/cmake-build-debug/CMakeFiles/MySell.dir/File.cpp.o"
+  "/mnt/c/Users/Admin/CLionProjects/MySell/Myshell.cpp" "/mnt/c/Users/Admin/CLionProjects/MySell/cmake-build-debug/CMakeFiles/MySell.dir/Myshell.cpp.o"
+  "/mnt/c/Users/Admin/CLionProjects/MySell/Value.cpp" "/mnt/c/Users/Admin/CLionProjects/MySell/cmake-build-debug/CMakeFiles/MySell.dir/Value.cpp.o"
   "/mnt/c/Users/Admin/CLionProjects/MySell/main.cpp" "/mnt/c/Users/Admin/CLionProjects/MySell/cmake-build-debug/CMakeFiles/MySell.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

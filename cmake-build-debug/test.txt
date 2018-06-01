@@ -1,0 +1,2 @@
+VAR = /mnt/c/
+Mcd $VAR

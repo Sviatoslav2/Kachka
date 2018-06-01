@@ -1,5 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/MySell.dir/main.cpp.o"
+  "CMakeFiles/MySell.dir/File.cpp.o"
+  "CMakeFiles/MySell.dir/Myshell.cpp.o"
+  "CMakeFiles/MySell.dir/Value.cpp.o"
   "MySell.pdb"
   "MySell"
 )

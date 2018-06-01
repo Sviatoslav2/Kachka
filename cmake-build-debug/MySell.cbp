@@ -84,6 +84,27 @@
          </MakeCommands>
       </Target>
       </Build>
+      <Unit filename="/mnt/c/Users/Admin/CLionProjects/MySell/File.cpp">
+         <Option target="MySell"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/Admin/CLionProjects/MySell/File.h">
+         <Option target="MySell"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/Admin/CLionProjects/MySell/MySell.cbp">
+         <Option target="MySell"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/Admin/CLionProjects/MySell/Myshell.cpp">
+         <Option target="MySell"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/Admin/CLionProjects/MySell/Myshell.h">
+         <Option target="MySell"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/Admin/CLionProjects/MySell/Value.cpp">
+         <Option target="MySell"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/Admin/CLionProjects/MySell/Value.h">
+         <Option target="MySell"/>
+      </Unit>
       <Unit filename="/mnt/c/Users/Admin/CLionProjects/MySell/main.cpp">
          <Option target="MySell"/>
       </Unit>

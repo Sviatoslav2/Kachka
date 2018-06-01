@@ -1,1 +1,1 @@
-/usr/bin/c++   -g   CMakeFiles/MySell.dir/main.cpp.o  -o MySell /usr/lib/x86_64-linux-gnu/libboost_filesystem.so /usr/lib/x86_64-linux-gnu/libboost_system.so 
+/usr/bin/c++   -g   CMakeFiles/MySell.dir/main.cpp.o CMakeFiles/MySell.dir/File.cpp.o CMakeFiles/MySell.dir/Myshell.cpp.o CMakeFiles/MySell.dir/Value.cpp.o  -o MySell /usr/lib/x86_64-linux-gnu/libboost_filesystem.so /usr/lib/x86_64-linux-gnu/libboost_system.so 
